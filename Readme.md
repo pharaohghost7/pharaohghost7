@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andres Betancourt</h1>
-<h3 align="center">A passionate frontend developer and Data Engineer from India</h3>
+<h3 align="center">A passionate frontend developer and Data Engineer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pharaohghost7&label=Profile%20views&color=0e75b6&style=flat" alt="pharaohghost7" /> </p>
 
